@@ -1,0 +1,2536 @@
+Ýsim: Bostanlida hem kislik hem yazlik gibi yuksek giris bahceli
+Fiyat: 3.650.000 TL
+Ilan no: 27072-1974
+Son Guncelleme Tarihi: 03-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 120 m2
+Bulundugu Kat: Yuksek Giris
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 15.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: 9 EYLUL EMLAK NERGIZ GONCALARDA 2+1 SATILIK DAIRE
+Fiyat: 1.900.000 TL
+Ilan no: 91814-835
+Son Guncelleme Tarihi: 28-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 85 m2 / 70 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 11 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 100 TL
+Takas: Hayir
+Kira Getirisi: 5.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Ozdere cukuraltinda deniz manzarali Satilik Daire
+Fiyat: 2.500.000 TL
+Ilan no: 120445-83
+Son Guncelleme Tarihi: 26-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 30 Yasinda
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Takas: Hayir
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Izmir Seferihisar Doganbey de satilik 3+1 Yazlik Villa
+Fiyat: 3.300.000 TL
+Ilan no: 123774-164
+Son Guncelleme Tarihi: 03-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 150 m2 / 130 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: Izmir Seferihisar Doganbey de Satilik 3+1 Deniz Manzarali Villa
+Fiyat: 3.000.000 TL
+Ilan no: 123774-259
+Son Guncelleme Tarihi: 03-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 150 m2 / 130 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: IZMIR KARSIYAKA YALI MAHALLESI
+Fiyat: 2.450.000 TL
+Ilan no: 123290-144
+Son Guncelleme Tarihi: 02-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 1 + 1
+Brut / Net M2: 60 m2 / 50 m2
+Bulundugu Kat: Yuksek Giris
+Bina Yasi: 9 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 1
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Irtifaki
+Aidat: 150 TL
+Takas: Evet
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Umurbey'de dubleks daire
+Fiyat: 1.500.000 TL
+Ilan no: 113414-96
+Son Guncelleme Tarihi: 01-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 5 + 2
+Brut / Net M2: 250 m2 / 200 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 1 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 3
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Dogu, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Menemen seyrekte universiteye yakin
+Fiyat: 1.550.000 TL
+Ilan no: 27072-1986
+Son Guncelleme Tarihi: 30-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 130 m2 / 100 m2
+Bulundugu Kat: 5. Kat
+Bina Yasi: 3 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Kuzey, Dogu
+Kira Getirisi: 6.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Mynarlife Sitesinde Satilik 3+1  Luks Daire
+Fiyat: 5.400.000 TL
+Ilan no: 134933-47
+Son Guncelleme Tarihi: 01-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 165 m2 / 140 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 2 Yasinda
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 15 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 1.000 TL
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Kira Getirisi: 12.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Granada Rezidans 3+1 Satilik Daire
+Fiyat: 5.000.000 TL
+Ilan no: 134933-46
+Son Guncelleme Tarihi: 01-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 176 m2 / 143 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 7 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 800 TL
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Site Icerisinde: Granada Sitesi (Izmir, Karabaglar, Ali Fuat Cebesoy)
+Kira Getirisi: 6.600 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Izmir Seferihisar Akarca Emsalsiz Ikiz Villa
+Fiyat: 8.000.000 TL
+Ilan no: 134933-22
+Son Guncelleme Tarihi: 01-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 300 m2 / 180 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Ýsim: FAHRETTIN ALTAY'DA MERKEZI KONUMDA GENIS,MASRAFSIZ DAIRE
+Fiyat: 3.000.000 TL
+Ilan no: 2598-2558
+Son Guncelleme Tarihi: 02-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 150 m2 / 140 m2
+Bulundugu Kat: Yuksek Giris
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Dogalgaz Sobasi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Kullanim Durumu: Mulk Sahibi
+Kira Getirisi: 7.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Hatay'da Merkezi Konumda Kose,Ferah Daire
+Fiyat: 2.250.000 TL
+Ilan no: 2598-2561
+Son Guncelleme Tarihi: 02-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 160 m2 / 140 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Dogalgaz Sobasi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Kira Getirisi: 8.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Sasali nin En Guzel Projesi Gultekin ONAG 2 de SATILIK SIFIR VILLA
+Fiyat: 14.250.000 TL
+Ilan no: 88159-753
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 5 + 1
+Brut / Net M2: 360 m2 / 330 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 5
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney
+Site Icerisinde: SASALI ONAG 2
+Kira Getirisi: 35.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: UCYOL METRO YAKINI BETONYOL CADDE UZERI 2.5+1 SONKAT DAIRE
+Fiyat: 1.200.000 TL
+Ilan no: 30787-1718
+Son Guncelleme Tarihi: 31-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 99 m2 / 75 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 49 Yasinda
+Isinma Tipi: Soba
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 50 TL
+Cephe: Dogu, Bati
+Kira Getirisi: 7.000 TL
+Yakit Tipi: Dogalgaz
+Ýsim: IZMIR KONAK KEMALREIS SATILIK kismen klasik deniz goren duz giriskose
+Fiyat: 1.250.000 TL
+Ilan no: 30787-1714
+Son Guncelleme Tarihi: 27-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 75 m2 / 68 m2
+Bulundugu Kat: Giris Kati
+Bina Yasi: 48 Yasinda
+Isinma Tipi: Soba
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 50 TL
+Takas: Hayir
+Kira Getirisi: 1.500 TL
+Yakit Tipi: Dogalgaz
+Ýsim: Birgi Merkezde 3 katli mustakil ev
+Fiyat: 2.400.000 TL
+Ilan no: 113414-183
+Son Guncelleme Tarihi: 14-12-2022
+Ilan Durumu: Satilik
+Konut Sekli: Mustakil Ev
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 219 m2 / 150 m2
+Bina Yasi: 60 Yasinda
+Isinma Tipi: Soba
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun degil
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Kagir
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Arsa
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: PAYAMLIDA GENIS BAHCELI 2+1 DAIRE DENIZE 400 METRE
+Fiyat: 1.650.000 TL
+Ilan no: 7278-245
+Son Guncelleme Tarihi: 31-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 80 m2 / 60 m2
+Bulundugu Kat: Zemin
+Bina Yasi: 15 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Guney, Dogu
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: ORDUKAYA Emlaktan Denize 300 metre luks villa
+Fiyat: 4.500.000 TL
+Ilan no: 7278-244
+Son Guncelleme Tarihi: 12-01-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 150 m2 / 130 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kat Kaloriferi
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 3
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: 35 EMLAK TAN KAYA PRESTIGE KONUTLARI  115m2 NET 2+1 SATILIK
+Fiyat: 5.550.000 TL
+Ilan no: 30092-2370
+Son Guncelleme Tarihi: 01-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 135 m2 / 115 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 9 Yasinda
+Isinma Tipi: Merkezi (Pay Olcer)
+Kat Sayisi: 10 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 1.895 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Bati
+Kira Getirisi: 12.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Bostanli ve Izban'a 30m Asansorlu Otoparkli Satilik 3+1 Daire
+Fiyat: 2.600.000 TL
+Ilan no: 117989-286
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 135 m2 / 115 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Kullanim Durumu: Kiracili
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: URKMEZ DE MERKEZI KONUMDA GENIS BAHCELI ULTRA LUKS VILLA YAPRAK EMLAKTAN
+Fiyat: 3.000.000 TL
+Ilan no: 131225-129
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 120 m2 / 115 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Inonu Cad.Uzerinde Designbyebruener Farkiyla 2.950.000 TL. Daire
+Fiyat: 2.950.000 TL
+Ilan no: 31745-19076
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 95 m2 / 90 m2
+Bulundugu Kat: 9. Kat
+Bina Yasi: 31 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 14 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 265 TL
+Takas: Hayir
+Ýsim: ULTRA LUX EXTRALI !!! FIRSAT DUBLEKS!!! ASANSORLU TERASLI LUKS DAIRE
+Fiyat: 4.400.000 TL
+Ilan no: 17761-4310
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 135 m2 / 120 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 1 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: SAHILDE CIFT CEPHELI ,FULL TADILATLI OTOPARKLI YALI DAIRESI
+Fiyat: 5.450.000 TL
+Ilan no: 79151-64
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: 9. Kat
+Bina Yasi: 31 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 9 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 450 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Ýsim: Cigli Atasehir Ekol Goz Hastanesi Karsisi Satilik 3+1 Daire
+Fiyat: 2.275.000 TL
+Ilan no: 117989-287
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 110 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yetkili Ofis: Evet
+Ýsim: GUZELYALI'NIN EN MEVKII YERINDE KARA TARAFINDA FIRSAT DAIRE !!
+Fiyat: 2.750.000 TL
+Ilan no: 79151-65
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 120 m2
+Bulundugu Kat: 7. Kat
+Bina Yasi: 31 Yasinda
+Isinma Tipi: Merkezi (Pay Olcer)
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 150 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Ýsim: INONU CADDE VE METRO YAKINI BAHCELI BAKIMLI SATILIK 3+1 DAIRE
+Fiyat: 1.325.000 TL
+Kat Karsiligi :: 
+Ilan no: 130939-130
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 110 m2 / 90 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Betonarme
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Yakit Tipi: Dogalgaz
+Ýsim: BORNOVA ATATURK MAH. SATILIK DOGALGAZLI DAIRE
+Fiyat: 1.750.000 TL
+Ilan no: 133288-62
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 103 m2 / 98 m2
+Bulundugu Kat: Zemin
+Bina Yasi: 26 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun degil
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: DAYIM EMLAKTAN SATILIK ARA KAT DAIRE
+Fiyat: 2.950.000 TL
+Ilan no: 27103-4469
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 120 m2 / 100 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 30 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Yetkili Ofis: Evet
+Ýsim: Izmir Buca hurriyet mahallesi satilik 2+1/100 m2
+Fiyat: 2.500.000 TL
+Ilan no: 102140-509
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 110 m2 / 100 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 5 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: KARABAGLAR AKEVLERDE DEPREM YONETMELIGINE UYGUN SATILIK DAIRE
+Fiyat: 3.800.000 TL
+Ilan no: 79151-70
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 130 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 11 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 150 TL
+Takas: Hayir
+Ýsim: izban dolmus duraklari yakini karsiyaka carsi merkezde bahceli satilik daire
+Fiyat: 2.900.000 TL
+Ilan no: 31220-7762
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 110 m2 / 75 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 40 TL
+Takas: Hayir
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Bostanlî merkezde sonkat full yapili kose
+Fiyat: 2.600.000 TL
+Ilan no: 27072-1993
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 110 m2 / 100 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 29 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Ýsim: Sali pazarinda 2+1 daire
+Fiyat: 575.000 TL
+Ilan no: 113414-188
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 87 m2 / 85 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Soba
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun degil
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: Bayrakli Osmangazi'de 7/3 Katta 3+1 120 M2 D.gaz Kombili Satilik Daire
+Fiyat: 1.450.000 TL
+Ilan no: 9047-1196
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 120 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 30 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 250 TL
+Takas: Hayir
+Cephe: Kuzey, Dogu
+Kira Getirisi: 2.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: MERKEZI KONUMDA MUHTESEM ULTRA LUX TADILATLI 3+1 160 M2
+Fiyat: 3.380.000 TL
+Ilan no: 122045-271
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 170 m2 / 160 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Kira Getirisi: 8.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Doganay Mh Yildiz Caddesi Yakini 3+1 145m2 Satilik Daire
+Fiyat: 1.750.000 TL
+Ilan no: 23746-16404
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 120 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 14 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 4.500 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Torbali Ertugrul Mahallesinde Satilik 3+1 Daire
+Fiyat: 2.300.000 TL
+Ilan no: 134059-25
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 170 m2 / 160 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 13 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Evet
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Bornova Kizilay Mahallesinde 2+1 Bahceli Satilik Daire
+Fiyat: 1.435.000 TL
+Ilan no: 111893-301
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 130 m2 / 110 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: 16 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Yakit Tipi: Dogalgaz
+Ýsim: CIGLI BALATCIK HAVUZLU SITE ICINDE EBEVYN BANYOLU 2+1 SATILIK DAIRE
+Fiyat: 2.550.000 TL
+Ilan no: 44354-1556
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 125 m2 / 115 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 4 Yasinda
+Isinma Tipi: Merkezi (Pay Olcer)
+Kat Sayisi: 6 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Guney
+Kira Getirisi: 12.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: IZMIR SEFERIHISAR DOGANBEY DE SATILIK DENIZ MANZARALI YAZLIK 4+1
+Fiyat: 5.680.000 TL
+Ilan no: 85585-2199
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Yazlik
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 150 m2 / 120 m2
+Bulundugu Kat: Villa Kati
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Buca Sirinyer Guven Mh. 3+1 145M2 Dogalgazli Satilik Daire
+Fiyat: 1.450.000 TL
+Ilan no: 24511-8108
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 135 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 17 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Kuzey, Guney
+Kira Getirisi: 5.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: DIKILI'DE CUMHURIYET MAHALLESINDE ( ISMET PASA ) SATILIK SIFIR TRIPLEX VILLA
+Fiyat: 3.750.000 TL
+Ilan no: 135905-8
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 150 m2 / 120 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 3
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Yetkili Ofis: Evet
+Ýsim: KARSIYAKA ATAKENT EFES BLOKLARI SAHILE TRAMVAYA YAKIN ONU ACIK SATILIK 3+1 DAIRE
+Fiyat: 5.250.000 TL
+Ilan no: 4762-4275
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 140 m2 / 115 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 34 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 8 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 1.337 TL
+Takas: Hayir
+Cephe: Dogu, Bati
+Kira Getirisi: 12.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Karsiyaka Bahcelievler'de  Merkezi Konumda 5+1 Dubleks
+Fiyat: 2.300.000 TL
+Ilan no: 112706-5596
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 5 + 1
+Brut / Net M2: 160 m2 / 135 m2
+Bulundugu Kat: Giris Kati
+Bina Yasi: 29 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey
+Kira Getirisi: 8.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: YALI MAH.'de Merkezi Konumda SATILIK 2+1 FIRSAT Daire
+Fiyat: 2.090.000 TL
+Ilan no: 58372-3845
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 100 m2 / 90 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 21 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 8.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: KENT 2 SATILIK DAIRE FULL TADILATLI 3+1
+Fiyat: 2.500.000 TL
+Ilan no: 54684-3038
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 120 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 15 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Irtifaki
+Aidat: 60 TL
+Takas: Hayir
+Cephe: Guney, Dogu
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Inklap Mahallesi 3+1 Izban Durana Ve Natoya Yakin Satilik Daire
+Fiyat: 1.350.000 TL
+Ilan no: 2499-9689
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 115 m2 / 103 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 50 TL
+Takas: Evet
+Cephe: Kuzey, Bati
+Kira Getirisi: 6.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: VOLKAN EMLAKTAN CIGLI CIRITOGLU YESILVADI KONUTLARINDA
+Fiyat: 2.500.000 TL
+Ilan no: 59475-958
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 140 m2 / 130 m2
+Bulundugu Kat: 6. Kat
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Merkezi (Pay Olcer)
+Kat Sayisi: 6 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Aidat: 450 TL
+Takas: Hayir
+Cephe: Kuzey, Bati
+Site Icerisinde: Ciritoglu Yesilvadi Konaklari
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Izmir Selcuk Merkezde Satilik 2+1 Lux Daire
+Fiyat: 3.250.000 TL
+Ilan no: 132456-222
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Evet
+Cephe: Guney, Dogu, Bati
+Kira Getirisi: 13.000 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: HIFZISSIHHA CAMLI SOKAKTA ICI DUZGUN ARAKAT AGACLARIN ICINDE 3+1
+Fiyat: 2.650.000 TL
+Ilan no: 135166-91
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Dogu, Bati
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Ýsim: YESILYURT MERKEZ CAMISINE COK YAKIN YILDIZ CADDESI UZERINDE 2+1 TADILATLI DAIRE
+Fiyat: 1.100.000 TL
+Ilan no: 0-40260022
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 90 m2 / 80 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 6 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Kuzey, Dogu
+Yakit Tipi: Dogalgaz
+Ýsim: CAGDAS GAYRIMENKUL'DEN ATIFBEY MAHALLESINDE 3+1 SATILIK DAIRE SD-11
+Fiyat: 3.350.000 TL
+Ilan no: 132840-21
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 115 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 27 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Kira Getirisi: 11.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: IZMIR MENDERES KEMALPASA MAHALLESI LUKS HAVUZLU SATILIK DAIRE
+Fiyat: 4.250.000 TL
+Ilan no: 121318-121
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 125 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 500 TL
+Cephe: Kuzey, Guney, Dogu
+Yakit Tipi: Dogalgaz
+Ýsim: CESMEDEN EMLAK:) GERMIYANDA SATILIK 5+2 SITE ICI DENIZ GOREN TERASLI TRIPLEX VILLA
+Fiyat: 4.550.000 TL
+Ilan no: 129694-205
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 5 + 2
+Brut / Net M2: 180 m2 / 160 m2
+Bina Yasi: 18 Yasinda
+Isinma Tipi: Belirtilmemis
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Bilinmiyor
+Esya Durumu: Esyali
+Banyo Sayisi: 3
+Kullanim Durumu: Bos
+Site Icerisinde: Evet (Site Adi Belirtilmemis)
+Ýsim: Narlidere Ilica Mahallesinde 3+1 Satilik Daire
+Fiyat: 5.750.000 TL
+Ilan no: 129369-54
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 135 m2 / 120 m2
+Bulundugu Kat: 5. Kat
+Bina Yasi: 16 Yasinda
+Isinma Tipi: Jeotermal Isitma
+Kat Sayisi: 9 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Kira Getirisi: 14.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: GAZIEMIR EVKA 7 DE SATILIK ARA KAT 3+1 DAIRE
+Fiyat: 1.600.000 TL
+Ilan no: 133612-14
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 110 m2 / 96 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 23 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 9 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: HATAY ADNAN SUVARIDE DENIZ MANZARALI TADILATLI SATILIK 3+1 DAIRE
+Fiyat: 4.650.000 TL
+Ilan no: 121398-365
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 140 m2 / 130 m2
+Bulundugu Kat: 5. Kat
+Bina Yasi: 26 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 150 TL
+Takas: Hayir
+Cephe: Guney, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: IZKENT Mahallesinde 2+1 Dogalgazli Daire
+Fiyat: 1.200.000 TL
+Ilan no: 121937-428
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 80 m2 / 75 m2
+Bulundugu Kat: Yuksek Giris
+Bina Yasi: 26 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 4.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: VOLKAN YANC'tan FIRSAT ONU ACIK 3+1 ASANSORLU KOSE CIFT CEPHELI
+Fiyat: 1.740.000 TL
+Ilan no: 74605-217
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 117 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 7.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: URLA ISKELE'DE DENIZ MANZARALI HAVUZLU SITEDE 3+1 SATILIK VILLA
+Fiyat: 15.300.000 TL
+Ilan no: 107888-838
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 200 m2 / 110 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: 26 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Site Icerisinde: Yelken Kaya Sitesi
+Ýsim: POYRAZ dan Mimarsinan Mahallesinde Satilik Dubleks
+Fiyat: 1.550.000 TL
+Ilan no: 132759-75
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 5 + 1
+Brut / Net M2: 220 m2 / 210 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Takas: Hayir
+Cephe: Dogu, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Torbali Pancar da Dogalgazli Asansorlu Sifir Bina 2+1 Satilik
+Fiyat: 1.300.000 TL
+Ilan no: 134198-44
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 105 m2 / 95 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Kira Getirisi: 5.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Uckuyular Meydanda 130m² Kose Konumlu Satilik Daire
+Fiyat: 2.400.000 TL
+Ilan no: 117668-528
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 28 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Takas: Evet
+Cephe: Kuzey, Guney, Dogu, Bati
+Kira Getirisi: 10.000 TL
+Ýsim: SEHIR MERKEZINDE MUSTEKIL TAS EV
+Fiyat: 1.250.000 TL
+Ilan no: 130998-74
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Mustakil Ev
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 166 m2 / 120 m2
+Bina Yasi: 100 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 1 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 1 TL
+Takas: Hayir
+Cephe: Bati
+Kira Getirisi: 5.000 TL
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: FUSUN EMLAK ORDU BULVARI, GENIS SK. ARAKAT,
+Fiyat: 1.800.000 TL
+Ilan no: 49446-4147
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 108 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 22 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Aidat: 50 TL
+Takas: Hayir
+Cephe: Kuzey, Guney
+Kira Getirisi: 7.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Poligon Caddede Emsalsiz 4+1 Ultra Luks Yapili 240 m2 Daire
+Fiyat: 5.950.000 TL
+Ilan no: 73313-1194
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 240 m2 / 210 m2
+Bulundugu Kat: 8. Kat
+Bina Yasi: 31 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 8 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Muga'dan Demirkopru'de Genis Ferah Kapali Mutfak Satilik 2+1
+Fiyat: 3.750.000 TL
+Ilan no: 65161-7288
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 94 m2 / 84 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 1 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Takas: Hayir
+Cephe: Bati
+Kira Getirisi: 12.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Kahramanlar'da Fuar Manzarali 3+1 Merkezi Sistem Asansorlu,3+1 Satilik Daire
+Fiyat: 5.000.000 TL
+Ilan no: 132940-366
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 140 m2
+Bulundugu Kat: 8. Kat
+Bina Yasi: 33 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 8 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 750 TL
+Takas: Hayir
+Cephe: Dogu, Bati
+Kira Getirisi: 18.000 TL
+Yakit Tipi: Akaryakit
+Yetkili Ofis: Evet
+Ýsim: SEFERIHISAR'DA 0.69 ' A UYGUN PRESTIJLI DAIRELER
+Fiyat: 2.650.000 TL
+Ilan no: 133723-106
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 83 m2 / 73 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 11 TL
+Takas: Hayir
+Cephe: Dogu
+Kira Getirisi: 7.500 TL
+Yakit Tipi: Dogalgaz
+Ýsim: CESME YALI MAH. YALI GIBI TEK MUSTAKIL VILLA ARDAC' tan
+Fiyat: 17.750.000 TL
+Ilan no: 74022-7366
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Mustakil Ev
+Oda + Salon Sayisi: 5 + 1
+Brut / Net M2: 568 m2 / 270 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 6
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Evet
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Gulbahce'de, Deniz kenarinda, Mustakil Havuzlu Muhtesem Villa
+Fiyat: 14.000.000 TL
+Ilan no: 130067-16
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 260 m2 / 220 m2
+Bina Yasi: 10 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 3
+Yapinin Durumu: Ikinci El
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Yetkili Ofis: Evet
+Ýsim: EKONOMI UNIVERSITESI YAKINI SATILIK ARA KAT LUKS DAIRE
+Fiyat: 2.950.000 TL
+Ilan no: 18801-1109
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 31 Yasinda
+Isinma Tipi: Jeotermal Isitma
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 2
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Cephe: Dogu, Bati
+Ýsim: Balcovada Sifir Asansorlu Dublesk 3+1 Satilik Daire
+Fiyat: 3.450.000 TL
+Ilan no: 94513-1492
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 140 m2 / 125 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 1 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Dogu, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Narliderede Satilik Daire Lux Havuz Dnz&Doga K.Otopark Fitns
+Fiyat: 5.500.000 TL
+Ilan no: 21671-6066
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 175 m2 / 155 m2
+Bulundugu Kat: 7. Kat
+Bina Yasi: 1 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Aidat: 1 TL
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Kira Getirisi: 17.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Bornova Merkeze Yakin Deniz Manzarali 4+1 Satilik SELEX'den
+Fiyat: 6.950.000 TL
+Ilan no: 55856-12
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 320 m2 / 296 m2
+Bulundugu Kat: Cati Kati
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Merkezi
+Kat Sayisi: 8 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 1.600 TL
+Takas: Hayir
+Cephe: Guney
+Kira Getirisi: 15.000 TL
+Yetkili Ofis: Evet
+Ýsim: YALIDA DENIZE 6.DAKIKA MEASAFEDE DOG.GAZLI 3+1 FERAH DAIRE
+Fiyat: 2.125.000 TL
+Ilan no: 132835-25
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 105 m2 / 90 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: 24 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Takas: Evet
+Cephe: Dogu, Bati
+Yakit Tipi: Dogalgaz
+Ýsim: Greenlife Sitesinde 2500 m2 arsa icerisinde havuzlu ozel villa
+Fiyat: 38.500.000 TL
+Ilan no: 14037-5349
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 5 + 2
+Brut / Net M2: 600 m2 / 500 m2
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 5
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 3.000 TL
+Takas: Hayir
+Cephe: Kuzey
+Site Icerisinde: Greenlife Zeytinalani
+Kira Getirisi: 50.000 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Karsiyaka Ata kent  Yali da Satilik 3+1 Park Manzarali Daire
+Fiyat: 2.950.000 TL
+Ilan no: 49204-1566
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 155 m2 / 135 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 27 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 8 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 180 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: KARABAGLAR / MALIYECILER MAH. SATILIK 3 +1 165M2 DAIRE KODU:1794
+Fiyat: 4.300.000 TL
+Ilan no: 66154-1794
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 165 m2 / 145 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 40 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Ýsim: IZMIR DEMOKRASI   UNFERSITESI KARSISI ASANSORLU OTOPARKLI LUKS SATILIK DAIRE
+Fiyat: 2.999.000 TL
+Ilan no: 77409-558
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 125 m2
+Bulundugu Kat: 6. Kat
+Bina Yasi: 32 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Guney, Bati
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Kemalpasa Armutlu’da 3+1 Satilik 0 Ara Kat Daire - KARADENIZ EMLAK
+Fiyat: 1.500.000 TL
+Ilan no: 43309-2631
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 155 m2 / 145 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 10 TL
+Takas: Evet
+Cephe: Kuzey, Guney, Dogu, Bati
+Kira Getirisi: 4.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: IZMIR SEFERIHISAR DOGANBEY DE MUSTAKIL  GENIS BAHCELI 3+1 YAZLIK VILLA
+Fiyat: 4.500.000 TL
+Ilan no: 125858-226
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Yazlik
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 160 m2 / 110 m2
+Bulundugu Kat: Villa Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: FIRSAT! ADATEPE P.YERI KARSISI 2+1 110 M2 CIFT CEPHE BALKONLU
+Fiyat: 1.099.000 TL
+Ilan no: 130914-77
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 110 m2 / 90 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 26 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 20 TL
+Takas: Evet
+Cephe: Kuzey, Guney, Dogu
+Yetkili Ofis: Evet
+Ýsim: CESME YALI MAH. 4+2 /175M2-SATILIK MUSTAKIL VILLA ILAN KODU:180
+Fiyat: 12.250.000 TL
+Ilan no: 123015-180
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 4 + 2
+Brut / Net M2: 200 m2 / 175 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Yerden Isitma
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 3
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Ýsim: BAYRAKLI MANAVKUYU YZB IBRAHIM HAKKI CAD USTU 5. KAT 160 M2 3+1 KILERLI
+Fiyat: 2.755.000 TL
+Ilan no: 129267-105
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 170 m2 / 160 m2
+Bulundugu Kat: 5. Kat
+Bina Yasi: 13 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 10 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 550 TL
+Takas: Hayir
+Cephe: Dogu, Bati
+Site Icerisinde: SALIM BEY
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: KARABEY EMLAK / Denize yakin Mesafede 3+1 Yazlik/ Mustakil
+Fiyat: 4.500.000 TL
+Ilan no: 125351-199
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Yazlik
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 180 m2 / 100 m2
+Bulundugu Kat: Villa Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: ESKI FOCA FOCAKOY DE MUSTAKIL FULL DENIZ MANZARALI 3+1  VILLA
+Fiyat: 9.900.000 TL
+Ilan no: 128455-103
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 170 m2 / 160 m2
+Bina Yasi: 5 Yasinda
+Isinma Tipi: Kat Kaloriferi
+Kat Sayisi: 1 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Tapu Durumu: Arsa
+Takas: Evet
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Akaryakit
+Yetkili Ofis: Evet
+Ýsim: TAHIR EMLAK'TAN Bahceli Mustakil Girisli Satilik 3+1 Villa
+Fiyat: 4.150.000 TL
+Ilan no: 86557-1534
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 140 m2 / 115 m2
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Tapu Durumu: Kat Irtifaki
+Yetkili Ofis: Evet
+Ýsim: MORCICEK'TEN MORDOGAN'DA MUSTAKIL BAHCELI SIFIR LUKS VILLA...
+Fiyat: 3.750.000 TL
+Ilan no: 117819-232
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 120 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun degil
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu
+Ýsim: Beder Emlak tan Doganbey de satilik mustakil genis 3+1 yazlik
+Fiyat: 3.750.000 TL
+Ilan no: 129034-78
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Yazlik
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 200 m2 / 150 m2
+Bulundugu Kat: Villa Kati
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 3
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: STAR EMLAKTA SITEDE ASANSOR,OTOPARK,TERMALLI GENIS BALKONLU 3+1 136M2 K/7
+Fiyat: 3.000.000 TL
+Ilan no: 6945-1003
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 145 m2 / 136 m2
+Bulundugu Kat: 7. Kat
+Bina Yasi: 17 Yasinda
+Isinma Tipi: Jeotermal Isitma
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Dogu, Bati
+Kira Getirisi: 6.000 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: KASIKCILAR INSAAT'TAN SATILIK LUKS DAIRELER
+Fiyat: 1.990.000 TL
+Ilan no: 132899-2
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 90 m2 / 80 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Yapim Asamasinda
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Guney
+Kira Getirisi: 5.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Guven Insaat'tan Menemen' in merkez mahallesi mermerli de  satilik 3+1 2.kat ve 5.kat daireler
+Fiyat: 2.750.000 TL
+Ilan no: 24618-572
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 120 m2
+Bulundugu Kat: Kot 2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Bati
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Bornova erzene mah satilik daire
+Fiyat: 2.850.000 TL
+Ilan no: 41692-1159
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 72 m2 / 55 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Kuzey, Bati
+Kira Getirisi: 7.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Kemalpasa Mehmet Akif Ersoy Mah.Cevre Yoluna Cephe Satilik 5+1 Dublex Daire
+Fiyat: 2.000.000 TL
+Ilan no: 48932-906
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 5 + 1
+Brut / Net M2: 280 m2 / 250 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 15 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 4.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: FIRSAT!SIFIR 4+1 DUBLEKS,OTURUMU HAZIR,BUYUK TERASLI,AYDINLIK
+Fiyat: 3.650.000 TL
+Ilan no: 71862-1274
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 220 m2 / 180 m2
+Bulundugu Kat: Cati Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Kuzey, Bati
+Kira Getirisi: 10.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Seferihisar Doganbey De Satilik Sifir 3+1 Dubleks Villa
+Fiyat: 3.700.000 TL
+Ilan no: 85304-1087
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Yazlik
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 180 m2 / 165 m2
+Bulundugu Kat: Villa Kati
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Guney, Dogu
+Kira Getirisi: 3.000 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: Semikler 3+1 Teras Dublex  190m² A.Mutfak Cift Ebeveynli
+Fiyat: 4.000.000 TL
+Ilan no: 91713-143
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 190 m2 / 170 m2
+Bulundugu Kat: En Ust Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Dogu
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: REISDERE DE DENIZ MANZARALI 3+1 328 M2 KENDI PAYI ARSALI VILLA
+Fiyat: 8.000.000 TL
+Ilan no: 16579-3492
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 110 m2
+Bina Yasi: 6 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 2
+Kullanim Durumu: Bos
+Cephe: Kuzey, Guney, Dogu, Bati
+Yetkili Ofis: Evet
+Ýsim: SIFIR DAIRE Cigli Esentepe Mahallesi 3+1 Firsat Satilik Daire
+Fiyat: 2.190.000 TL
+Ilan no: 116537-224
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 84 m2 / 70 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: Sifir Bina
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Bati
+Kira Getirisi: 5.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Dikilide satilik sifir bahceli triplex villa
+Fiyat: 6.250.000 TL
+Ilan no: 84782-348
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 220 m2 / 210 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Isitma Yok
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Ýsim: BAHCELIEVLER CAHIT ATAY SOKAKDA 2+1 - D.GAZLI - GENIS - TADILATLI - TEMIZ DAIRE
+Fiyat: 1.630.000 TL
+Ilan no: 118890-992
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 110 m2 / 90 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 45 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 3 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Irtifaki
+Takas: Evet
+Cephe: Kuzey, Dogu
+Kira Getirisi: 8.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Izmir Konak Alsancak Satilik Konut 1+1 Esyali Kose Sehir Mnz.li.Kod-77
+Fiyat: 1.650.000 TL
+Ilan no: 21865-4863
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 1 + 1
+Brut / Net M2: 50 m2 / 45 m2
+Bulundugu Kat: 7. Kat
+Bina Yasi: 35 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 7 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali
+Banyo Sayisi: 1
+Tapu Durumu: Kat Irtifaki
+Takas: Hayir
+Cephe: Kuzey, Dogu
+Yetkili Ofis: Evet
+Ýsim: Izmir Urla Ozbek Plajinda Deniz Manzarali Bahceli Dubleks Satilik Villa
+Fiyat: 3.700.000 TL
+Ilan no: 48008-2678
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 170 m2 / 150 m2
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Isi Pompasi
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 600 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: ODEMIS, S, DEMIREL MAH, EFE KONUT SITESI, ANA CADDE UZERINDE DOGAL GAZLI ARA KAT SATILIK 1,250,000tl
+Fiyat: 1.250.000 TL
+Ilan no: 80120-690
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 101 m2 / 100 m2
+Bulundugu Kat: 3. Kat
+Bina Yasi: 25 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 4 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Takas: Evet
+Cephe: Guney, Dogu
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: GUNAY EMLAK ‘TAN TORBALI ERTUGRUL MAH SADIK ILERI BULVARI CADDE UZERINDE 125 m2 3+1 SATILIK DAIRE.
+Fiyat: 1.400.000 TL
+Ilan no: 119428-49
+Son Guncelleme Tarihi: 05-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 130 m2 / 125 m2
+Bulundugu Kat: Ara Kat
+Bina Yasi: 20 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 6 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 100 TL
+Takas: Hayir
+Cephe: Guney
+Site Icerisinde: Evet (Site Adi Belirtilmemis)
+Kira Getirisi: 4.500 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: Izmir Seferihisar doganbey’de satilik 3+1 mustakil villa
+Fiyat: 3.750.000 TL
+Ilan no: 123774-208
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Mustakil Ev
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 150 m2 / 140 m2
+Bina Yasi: Sifir Bina
+Isinma Tipi: Klima
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Sifir
+Kullanim Durumu: Bos
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Yakit Tipi: Komur-Odun
+Yetkili Ofis: Evet
+Ýsim: EMLAK KONUT MAVISEHIR'de, BORCSUZ, 4+1 GIRIS-ZEMIN, PEYZAJ ve HAVUZ CEPHE
+Fiyat: 6.500.000 TL
+Ilan no: 53576-3098
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 180 m2 / 150 m2
+Bulundugu Kat: Bahce Kati
+Bina Yasi: 15 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 13 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Kiracili
+Tapu Durumu: Kat Mulkiyeti
+Takas: Hayir
+Cephe: Kuzey, Dogu
+Kira Getirisi: 12.000 TL
+Yakit Tipi: Dogalgaz
+Yetkili Ofis: Evet
+Ýsim: KREDIYE UYGUN, HATAY ARAPHASAN 260 SK.'TA, KOSE KONUMLU 1.KAT DAIRE...
+Fiyat: 1.750.000 TL
+Ilan no: 30758-2447
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 120 m2 / 110 m2
+Bulundugu Kat: 1. Kat
+Bina Yasi: 43 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 1
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Bos
+Tapu Durumu: Kat Mulkiyeti
+Aidat: 40 TL
+Takas: Hayir
+Cephe: Kuzey, Guney, Dogu, Bati
+Kira Getirisi: 8.000 TL
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
+Ýsim: ATASEHIR'DE AYDINLIK CIFT CEPHE ARA KAT FERAH 2+1 SATILIK DAIRE
+Fiyat: 2.000.000 TL
+Ilan no: 101120-1130
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 2 + 1
+Brut / Net M2: 85 m2 / 75 m2
+Bulundugu Kat: 4. Kat
+Bina Yasi: 5 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 1
+Kullanim Durumu: Bos
+Ýsim: UCKUYULAR MEYDAN , METRO, ISTINYE PARK AVM  YAKINI ARAKAT TADILATLI SATILIK DAIRE
+Fiyat: 2.850.000 TL
+Ilan no: 115408-289
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Daire
+Oda + Salon Sayisi: 3 + 1
+Brut / Net M2: 125 m2 / 120 m2
+Bulundugu Kat: 2. Kat
+Bina Yasi: 30 Yasinda
+Isinma Tipi: Kombi
+Kat Sayisi: 5 Katli
+Krediye Uygunluk: Uygun
+Banyo Sayisi: 1
+Kullanim Durumu: Bos
+Ýsim: Torbali Capak mahallesi yuzme havuzu Mustakil Villa ve Bahcesi"TURAB"dan
+Fiyat: 4.500.000 TL
+Ilan no: 45829-1220
+Son Guncelleme Tarihi: 06-02-2023
+Ilan Durumu: Satilik
+Konut Sekli: Villa
+Oda + Salon Sayisi: 4 + 1
+Brut / Net M2: 150 m2 / 140 m2
+Bina Yasi: 5 Yasinda
+Isinma Tipi: Klima
+Kat Sayisi: 2 Katli
+Krediye Uygunluk: Uygun
+Esya Durumu: Esyali Degil
+Banyo Sayisi: 2
+Yapi Tipi: Betonarme
+Yapinin Durumu: Ikinci El
+Kullanim Durumu: Mulk Sahibi
+Takas: Hayir
+Cephe: Guney, Bati
+Yakit Tipi: Elektrik
+Yetkili Ofis: Evet
